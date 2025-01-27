@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TemperatureConverter
+namespace Wk2Ex3
 {
     class Program
     {
