@@ -8,7 +8,7 @@ namespace Wk2Ex3
         {
             Console.WriteLine("Welcome to Temperature Converter\n");
 
-            // Input: Fahrenheit temperature
+            // Enter Fahrenheit temperature
             Console.Write("Enter the temperature: ");
             double fahrenheit = Convert.ToDouble(Console.ReadLine());
 
